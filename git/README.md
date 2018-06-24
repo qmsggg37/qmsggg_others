@@ -1,2 +1,2 @@
 - github
-  - [github主页模版]()
+  - [github主页模版](https://github.com/qmsggg/qmsggg_others/issues/1)
