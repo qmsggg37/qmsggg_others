@@ -5,3 +5,7 @@
 
 ## Markdown
 - [Markdown语法参考](http://xianbai.me/learn-md/article/syntax/images.html)
+
+## 简历模版
+- [简历模版](https://github.com/qmsggg/ResumeSample)
+- [如何写好技术简历 —— 实例、模板及工具](http://get.ftqq.com/744.get)
