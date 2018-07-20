@@ -12,3 +12,6 @@
 ## 简历模版
 - [简历模版](https://github.com/qmsggg/ResumeSample)
 - [如何写好技术简历 —— 实例、模板及工具](http://get.ftqq.com/744.get)
+
+## 进度管理工具
+- [teambition](https://www.teambition.com/project/5b520dc503913b0018f37181/tasks/scrum/5b520dec10fc3500188c13f6)
