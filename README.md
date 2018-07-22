@@ -8,6 +8,7 @@
 
 ## 编辑器
 - [VIM](https://github.com/qmsggg/qmsggg_BlogCollect/issues/49)
+- [pycharm激活方式](https://blog.csdn.net/u014044812/article/details/78727496)
 
 ## 简历模版
 - [简历模版](https://github.com/qmsggg/ResumeSample)
