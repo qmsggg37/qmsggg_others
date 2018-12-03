@@ -17,3 +17,5 @@
 
 ## 进度管理工具
 - [teambition](https://www.teambition.com/project/5b520dc503913b0018f37181/tasks/scrum/5b520dec10fc3500188c13f6)
+## 百度网盘
+- [如何把百度网盘下载速度提高 100 倍，我推荐这个下载工具](https://blog.csdn.net/zhige_me/article/details/80465191)
