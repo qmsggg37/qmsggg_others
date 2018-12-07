@@ -8,3 +8,4 @@
   - [git pro 2 (gitbook)](https://bingohuang.gitbooks.io/progit2/content/)
   - [git删除中间某个commit](https://github.com/qmsggg/qmsggg_others/blob/master/git/git_drop_middle_sb_commit.md)
   - [git add 添加错文件 撤销](https://github.com/qmsggg/qmsggg_others/blob/master/git/git_undo_add_error_file.md)
+  - [git delete branch](https://github.com/qmsggg/qmsggg_others/blob/master/git/git_delete_branch.md)
